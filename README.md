@@ -12,10 +12,13 @@ Projects and exercises covering:
 - Git and GitHub workflows
 
 ## Structure
+
+```
 /01-python-basics      → variables, loops, functions, OOP
 /02-flask-projects     → small Flask apps and APIs
 /03-web-scraping       → scraping practice scripts
 /04-sql-practice       → SQLite exercises
+```
 
 ## Current focus
 
