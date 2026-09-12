@@ -1,32 +1,30 @@
 # Python Learning Journey
 
-This repo tracks my progress as I build software engineering fundamentals in Python. I'm a final-year CS student at KIET (Karachi Institute of Economics & Technology) working through Python, backend development, and machine learning over a structured plan.
+A learning roadmap for Python and backend development as I build toward AI/ML engineering.
 
-## What's in here
+## Status
 
-Projects and exercises covering:
-- Python fundamentals and OOP
-- Flask and REST APIs
-- SQLite and basic SQL
-- Web scraping with BeautifulSoup and requests
-- Git and GitHub workflows
+This repository currently contains the learning roadmap and repository setup files. Practice exercises and standalone applications will be added as they are completed.
 
-## Structure
+## Learning Roadmap
 
-```
-/01-python-basics      → variables, loops, functions, OOP
-/02-flask-projects     → small Flask apps and APIs
-/03-web-scraping       → scraping practice scripts
-/04-sql-practice       → SQLite exercises
-```
+1. **Python fundamentals:** variables, control flow, functions, and modules.
+2. **Object-oriented programming:** classes, reusable code, and application structure.
+3. **Backend development:** Flask and REST APIs.
+4. **Data handling:** SQL, SQLite, and web scraping.
+5. **Machine learning foundations:** data preparation, model training, and evaluation.
+6. **End-to-end AI projects:** reproducible environments, application integration, and MLOps.
 
-## Current focus
+Git and GitHub workflows support each stage of the roadmap.
 
-Working on: Python fundamentals and OOP
+## Project Documentation
 
-## About me
+As projects are added, each will include:
 
-Final-year Computer Science student in Karachi, Pakistan. Targeting backend / Python internships while building toward ML engineering.
+- A clear problem statement and project scope.
+- Dependencies, setup instructions, and commands to run the code.
+- Usage examples and any known limitations.
 
-- LinkedIn: https://www.linkedin.com/in/mustafa-saeed-277a2837a/
-- Location: Karachi, Pakistan
+## Connect
+
+[GitHub Profile](https://github.com/Mustafasaeed850) · [LinkedIn](https://www.linkedin.com/in/mustafa-saeed-277a2837a/)
