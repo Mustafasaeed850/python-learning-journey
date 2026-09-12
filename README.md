@@ -1,33 +1,30 @@
 # Python Learning Journey
 
-A structured learning repository documenting my progress in Python and software engineering fundamentals as I build toward AI/ML engineering.
-
-## Current Scope
-
-This repository is currently being used to organize learning notes, exercises, and small practice projects around:
-
-- Python fundamentals
-- Object-oriented programming
-- Flask and REST APIs
-- SQL and SQLite
-- Web scraping
-- Git and GitHub workflows
+A learning roadmap for Python and backend development as I build toward AI/ML engineering.
 
 ## Status
 
-This repository is a work in progress. Project folders will be added as the corresponding exercises and applications are completed, so the repository structure stays aligned with the code that is actually available.
+This repository currently contains the learning roadmap and repository setup files. Practice exercises and standalone applications will be added as they are completed.
 
 ## Learning Roadmap
 
-`Python Fundamentals -> OOP -> Backend Development -> Data Handling -> Machine Learning -> End-to-End AI Projects`
+1. **Python fundamentals:** variables, control flow, functions, and modules.
+2. **Object-oriented programming:** classes, reusable code, and application structure.
+3. **Backend development:** Flask and REST APIs.
+4. **Data handling:** SQL, SQLite, and web scraping.
+5. **Machine learning foundations:** data preparation, model training, and evaluation.
+6. **End-to-end AI projects:** reproducible environments, application integration, and MLOps.
 
-## Goals
+Git and GitHub workflows support each stage of the roadmap.
 
-- Write cleaner, reusable Python code
-- Build practical backend and automation projects
-- Develop strong software engineering habits
-- Progress from fundamentals into machine learning and MLOps
+## Project Documentation
+
+As projects are added, each will include:
+
+- A clear problem statement and project scope.
+- Dependencies, setup instructions, and commands to run the code.
+- Usage examples and any known limitations.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mustafa-saeed-277a2837a/)
+[GitHub Profile](https://github.com/Mustafasaeed850) · [LinkedIn](https://www.linkedin.com/in/mustafa-saeed-277a2837a/)
