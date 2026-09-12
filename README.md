@@ -1,32 +1,33 @@
 # Python Learning Journey
 
-This repo tracks my progress as I build software engineering fundamentals in Python. I'm a final-year CS student at KIET (Karachi Institute of Economics & Technology) working through Python, backend development, and machine learning over a structured plan.
+A structured learning repository documenting my progress in Python and software engineering fundamentals as I build toward AI/ML engineering.
 
-## What's in here
+## Current Scope
 
-Projects and exercises covering:
-- Python fundamentals and OOP
+This repository is currently being used to organize learning notes, exercises, and small practice projects around:
+
+- Python fundamentals
+- Object-oriented programming
 - Flask and REST APIs
-- SQLite and basic SQL
-- Web scraping with BeautifulSoup and requests
+- SQL and SQLite
+- Web scraping
 - Git and GitHub workflows
 
-## Structure
+## Status
 
-```
-/01-python-basics      → variables, loops, functions, OOP
-/02-flask-projects     → small Flask apps and APIs
-/03-web-scraping       → scraping practice scripts
-/04-sql-practice       → SQLite exercises
-```
+This repository is a work in progress. Project folders will be added as the corresponding exercises and applications are completed, so the repository structure stays aligned with the code that is actually available.
 
-## Current focus
+## Learning Roadmap
 
-Working on: Python fundamentals and OOP
+`Python Fundamentals -> OOP -> Backend Development -> Data Handling -> Machine Learning -> End-to-End AI Projects`
 
-## About me
+## Goals
 
-Final-year Computer Science student in Karachi, Pakistan. Targeting backend / Python internships while building toward ML engineering.
+- Write cleaner, reusable Python code
+- Build practical backend and automation projects
+- Develop strong software engineering habits
+- Progress from fundamentals into machine learning and MLOps
 
-- LinkedIn: https://www.linkedin.com/in/mustafa-saeed-277a2837a/
-- Location: Karachi, Pakistan
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mustafa-saeed-277a2837a/)
